@@ -4,6 +4,8 @@
 2) The Mathematical Universe. Max Tegmark
 3) Why does deep and cheap learning work so well?, Henry W. Lin (Harvard), Max Tegmark (MIT)
 4) A Few Useful Things to Know about Machine Learning, Pedro Domingos
+5) Deep Learning and the Information Bottleneck Principle,  Naftali Tishby et. al. 
+(https://www.youtube.com/watch?v=bLqJHjXihK8&feature=youtu.be)
 
 
 #Books
